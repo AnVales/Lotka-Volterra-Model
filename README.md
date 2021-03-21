@@ -1,4 +1,4 @@
-## Lotka-Volterra-Model:
+# Lotka-Volterra-Model:
 Lotka-Volterra equations: predator-prey model
 
 Isolated ecosystem: no migration, no other species present, no pests...
@@ -13,14 +13,14 @@ Prey population affects predator population also proportionally to the number of
 
 Lions and zebras
 
-# A system of two first-order, coupled, autonomous, non-linear, coupled first-order differential equations
+## A system of two first-order, coupled, autonomous, non-linear, coupled first-order differential equations
 
 dx/dt = ax - bxy
 
 dy/dt = - cy + dyx
 
 
-# Parameters:
+## Parameters:
 
 x = nº prey (zebras)
 
